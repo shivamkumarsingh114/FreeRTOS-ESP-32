@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/shivam/esp32/esp-idf/examples/protocols/sockets/tcp_server/build/CMakeFiles/bootloader
+/Users/shivam/esp32/esp-idf/examples/protocols/sockets/tcp_server/build/CMakeFiles/bootloader.rule
+/Users/shivam/esp32/esp-idf/examples/protocols/sockets/tcp_server/build/CMakeFiles/bootloader-complete.rule
+/Users/shivam/esp32/esp-idf/examples/protocols/sockets/tcp_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/shivam/esp32/esp-idf/examples/protocols/sockets/tcp_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/shivam/esp32/esp-idf/examples/protocols/sockets/tcp_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/shivam/esp32/esp-idf/examples/protocols/sockets/tcp_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/Users/shivam/esp32/esp-idf/examples/protocols/sockets/tcp_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/shivam/esp32/esp-idf/examples/protocols/sockets/tcp_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/shivam/esp32/esp-idf/examples/protocols/sockets/tcp_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
